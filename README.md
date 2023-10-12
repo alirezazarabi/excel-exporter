@@ -1,4 +1,4 @@
-## A high performance excel exporter.(use functional instead of reflection)
+## A high performance excel exporter.(upgrade performance by remove reflection)
 ### Create Excel files by one fluent builder.
 
 
