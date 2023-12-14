@@ -1,6 +1,6 @@
 package com.devalz.excelexporter.service.api;
 
-import com.devalz.excelexporter.utils.excel.ExcelDto;
+import com.devalz.excelexporter.excel.ExcelDto;
 import com.devalz.excelexporter.model.dto.EmployeeDto;
 import org.springframework.data.domain.Sort;
 

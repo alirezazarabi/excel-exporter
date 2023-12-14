@@ -1,7 +1,7 @@
 package com.devalz.excelexporter.service.impl;
 
-import com.devalz.excelexporter.utils.excel.ExcelDto;
-import com.devalz.excelexporter.utils.excel.ExcelExporter;
+import com.devalz.excelexporter.excel.ExcelDto;
+import com.devalz.excelexporter.excel.ExcelExporter;
 import com.devalz.excelexporter.model.dto.EmployeeDto;
 import com.devalz.excelexporter.model.entity.Employee;
 import com.devalz.excelexporter.model.entity.Employee_;
@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import static com.devalz.excelexporter.utils.excel.ExcelColumn.Type.NUMERIC;
+import static com.devalz.excelexporter.excel.ExcelColumn.Type.NUMERIC;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService {

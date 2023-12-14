@@ -1,4 +1,4 @@
-package com.devalz.excelexporter.utils.excel;
+package com.devalz.excelexporter.excel;
 
 import com.devalz.excelexporter.exception.ServiceException;
 import com.devalz.excelexporter.utils.DateUtils;

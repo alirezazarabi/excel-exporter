@@ -1,4 +1,4 @@
-package com.devalz.excelexporter.utils.excel;
+package com.devalz.excelexporter.excel;
 
 public class ExcelUtils {
 

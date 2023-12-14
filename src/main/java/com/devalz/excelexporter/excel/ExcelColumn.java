@@ -1,4 +1,4 @@
-package com.devalz.excelexporter.utils.excel;
+package com.devalz.excelexporter.excel;
 
 import com.devalz.excelexporter.utils.ResourceBundleUtils;
 import org.springframework.util.Assert;
